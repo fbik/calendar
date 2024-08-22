@@ -1,0 +1,15 @@
+workingHoursApr2023:
+  workHoursCount: 159
+workingHoursMay2023:
+  workHoursCount: 166
+fromApr2023ToMar2024First: 2051
+workingHoursApr2024First:
+  workHoursCount: 181
+workingHoursMay2024First:
+  workHoursCount: 166
+fromApr2023ToMar2024Second: 2000
+workingHoursApr2024Second:
+  workHoursCount: 175
+workingHoursMay2024Second:
+  workHoursCount: 164
+fromApr2023ToMar2024Third: 2000
